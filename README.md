@@ -1,2 +1,3 @@
-# -playground-aks-gitops
+# Playground AKS GitOps
+
 Playground AKS GitOps
